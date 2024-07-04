@@ -1,4 +1,4 @@
-![Skunkworks Logo](https://www.skunkworks.africa/logo.png)
+![2](https://github.com/Skunkworks-Lab-Services/.github/assets/126121348/5b6cc808-bc90-412d-b5cf-760f2f6dd40f)
 
 # Welcome to Skunkworks-Lab-Services
 
