@@ -1,8 +1,8 @@
-![2](https://github.com/Skunkworks-Lab-Services/.github/assets/126121348/5b6cc808-bc90-412d-b5cf-760f2f6dd40f)
-
 # Welcome to Skunkworks-Lab-Services
 
 [![GitHub followers](https://img.shields.io/github/followers/skunkworksza?style=social)](https://github.com/skunkworksza) [![Twitter Follow](https://img.shields.io/twitter/follow/skunkworksza?style=social)](https://twitter.com/skunkworksza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Skunkworks-blue)](https://www.linkedin.com/company/skunkworksza)
+
+![2](https://github.com/Skunkworks-Lab-Services/.github/assets/126121348/5b6cc808-bc90-412d-b5cf-760f2f6dd40f)
 
 ## About Us
 
