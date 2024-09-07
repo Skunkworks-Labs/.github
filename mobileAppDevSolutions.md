@@ -144,7 +144,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-```
 
 ### How to Use:
 - Replace the repository URL `https://github.com/Skunkworks-Labs/mobileAppDevSolutions.git` with the correct one if different.
