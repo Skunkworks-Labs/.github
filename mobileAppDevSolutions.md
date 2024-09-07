@@ -1,6 +1,3 @@
-Here’s the `.md` file recreation based on the location you provided. You can copy and paste this into your repository at `https://github.com/Skunkworks-Labs/.github/blob/main/mobileAppDevSolutions.md`:
-
-```md
 # Mobile Application Backend & Frontend Solutions
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Skunkworks-Labs/.github) 
