@@ -1,4 +1,4 @@
-Solution-2 (Django Backend & Flutter Frontend)**
+
 
 # Solution 2: Django (Backend) & Flutter (Frontend)
 
