@@ -14,35 +14,53 @@ solution-1/ ├── backend/ │ └── server.js # Node.js + Express.js ba
   npm install -g react-native-cli
 Android Studio or Xcode for mobile development (required to run on Android/iOS simulators or physical devices).
 Backend Setup (Node.js + Express.js)
+
+
 Navigate to the backend directory:
 bash
 Copy code
 cd backend
+
+
 Install dependencies:
 bash
 Copy code
 npm install
+
+
 Start the backend server:
 bash
 Copy code
 npm start
+
+
 The server will be running at http://localhost:3000. You can test it by opening this URL in your browser.
 Frontend Setup (React Native)
+
+
 Navigate to the frontend directory:
 bash
 Copy code
 cd ../frontend
+
+
 Install dependencies:
 bash
 Copy code
 npm install
+
+
 Run the React Native app:
 bash
 Copy code
 react-native run-android   # For Android devices
 react-native run-ios       # For iOS devices
+
+
 Test the app on an emulator or a physical device connected to your computer.
 Environment Variables
+
+
 For configuration such as API keys and database URLs, create a .env file in both the backend and frontend directories.
 
 Contributing
