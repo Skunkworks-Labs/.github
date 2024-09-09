@@ -1,9 +1,5 @@
+Solution-2 (Django Backend & Flutter Frontend)**
 
----
-
-### **README.md for Solution-2 (Django Backend & Flutter Frontend)**
-
-```markdown
 # Solution 2: Django (Backend) & Flutter (Frontend)
 
 This solution showcases a Python-based backend using **Django** with the **Django REST Framework** for API services and a cross-platform mobile frontend built with **Flutter**.
